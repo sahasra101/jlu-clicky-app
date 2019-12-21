@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Superman",
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/13/132327/6507037-28872490_1638064799604695_1250122498385004714_n.jpg",
+    "alias": "Clark Kent",
+    "location": "Metropolis"
+  },
+  {
+    "id": 2,
+    "name": "Batman",
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11125/111253436/6733777-4.jpg",
+    "alias": "Bruce Wayne",
+    "location": "Gotham"
+  },
+  {
+    "id": 3,
+    "name": "Wonder Woman",
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_super/11130/111304535/6850214-0988737047-wonde.jpg",
+    "alias": "Diana Prince",
+    "location": "Paradise Island"
+  },
+  {
+    "id": 4,
+    "name": "Green Lantern",
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11114/111147698/6520709-1532011657748.jpg",
+    "alias": "Hal Jordan",
+    "location": "Green Lantern Corp"
+  },
+  {
+    "id": 5,
+    "name": "The Flash",
+    "image": "https://comicvine1.cbsistatic.com/uploads/original/10/101435/2574436-tumblr_lqr7ewqicv1qzvw5po1_500.jpg",
+    "alias": "Barry Allen",
+    "location": "Central City"
+  },
+  {
+    "id": 6,
+    "name": "Aquaman",
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_super/13/139093/2855803-aquaman_by_xxnightblade08xx.jpg",
+    "alias": "Arthur Curry",
+    "location": "Atlantis"
+  },
+  {
+    "id": 7,
+    "name": "Firestorm",
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/10/100647/2788249-frstm_cv14_r1.jpg",
+    "alias": "Ronny Raymond & Professor Stein",
+    "location": "New York City"
+  },
+  {
+    "id": 8,
+    "name": "Atom",
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/10/100647/6059435-atom.jpg",
+    "alias": "Ray Palmer",
+    "location": "quantum multiverse"
+  },
+  {
+    "id": 9,
+    "name": "Red Tornado",
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/10/100647/6032520-rt.jpg",
+    "alias": "Red Tornado",
+    "location": "JLU Headquarters"
+  },
+  {
+    "id": 10,
+    "name": "Hawkman",
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11125/111253436/6808576-hawkman_vol_5_1_textless.jpg",
+    "alias": "Carter Hall",
+    "location": "JLU Headquarters"
+  },
+  {
+    "id": 11,
+    "name": "Martian Manhunter",
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/10/100647/6876907-mm4.jpg",
+    "alias": "Martian Manhunter",
+    "location": "JLU Headquarters"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Fate",
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11125/111253436/5678114-56fce2a5c4e5fa7a21e60d92f3f232e8.jpg",
+    "alias": "Kent Nelson",
+    "location": "JLU Headquarters"
+  }
+]
