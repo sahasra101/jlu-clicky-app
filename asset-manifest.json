@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jlu-clicky-app/static/css/main.ea904149.chunk.css",
+    "main.js": "/jlu-clicky-app/static/js/main.447b31ce.chunk.js",
+    "main.js.map": "/jlu-clicky-app/static/js/main.447b31ce.chunk.js.map",
+    "runtime-main.js": "/jlu-clicky-app/static/js/runtime-main.e894ca0b.js",
+    "runtime-main.js.map": "/jlu-clicky-app/static/js/runtime-main.e894ca0b.js.map",
+    "static/js/2.53727795.chunk.js": "/jlu-clicky-app/static/js/2.53727795.chunk.js",
+    "static/js/2.53727795.chunk.js.map": "/jlu-clicky-app/static/js/2.53727795.chunk.js.map",
+    "index.html": "/jlu-clicky-app/index.html",
+    "precache-manifest.b9fa5c2610c055d288438f1d1ce70eed.js": "/jlu-clicky-app/precache-manifest.b9fa5c2610c055d288438f1d1ce70eed.js",
+    "service-worker.js": "/jlu-clicky-app/service-worker.js",
+    "static/css/main.ea904149.chunk.css.map": "/jlu-clicky-app/static/css/main.ea904149.chunk.css.map",
+    "static/js/2.53727795.chunk.js.LICENSE": "/jlu-clicky-app/static/js/2.53727795.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e894ca0b.js",
+    "static/js/2.53727795.chunk.js",
+    "static/css/main.ea904149.chunk.css",
+    "static/js/main.447b31ce.chunk.js"
+  ]
+}
