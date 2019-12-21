@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jlu-clicky-app/precache-manifest.b9fa5c2610c055d288438f1d1ce70eed.js"
+  "/jlu-clicky-app/precache-manifest.facb8a37912ac9f8b27cad3d9ee8503a.js"
 );
 
 self.addEventListener('message', (event) => {
